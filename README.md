@@ -14,13 +14,9 @@ Hello! I'm a Computer Science student passionate about data analytics and busine
 
 ### 🛠️ Tech Stack & Tools
 
-**Languages & Databases:**
-![SQL](https://img.shields.io/badge/SQL-316192?style=for-the-badge&logo=sql&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-**Data & Analytics Tools:**
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+**Languages & Databases:** SQL, Python
+**Database: MySQL**
+**Visualization:** PowerBI
 
 ---
 
