@@ -20,7 +20,7 @@ Hello! I'm a Computer Science student passionate about data analytics and busine
 
 ---
 
-### 📂 Featured Portfolio Projects
+### 📚 Projects
 * 📊 **[Restaurant Orders Sales Analysis](https://github.com/username-anda/nama-repo-proyek)** — An interactive executive sales dashboard built with Power BI and SQL to uncover revenue trends and top-performing menu items.
 * 🤖 **[Environmental Predictive Modeling](https://github.com/username-anda/nama-repo-ml)** — A machine learning research project utilizing XGBoost and LSTM for data-driven forecasting.
 
