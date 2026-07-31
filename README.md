@@ -14,9 +14,9 @@ Hello! I'm a Computer Science student passionate about data analytics and busine
 
 ### 🛠️ Tech Stack & Tools
 
-**Languages & Databases:** SQL, Python
-**Database: MySQL**
-**Visualization:** PowerBI
+- **Languages & Databases:** SQL, Python
+- **Database: MySQL**
+- **Visualization:** PowerBI
 
 ---
 
