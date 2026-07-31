@@ -32,8 +32,8 @@ Hello! I'm a Computer Science student with a strong passion for software develop
 
 ### 📬 Let's Connect!
 <p align="left">
-  <a href="https://linkedin.com/in/username-linkedin-anda"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:email-anda@domain.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="www.linkedin.com/in/ryanmahesa"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:mahesaryan350@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 <!--
