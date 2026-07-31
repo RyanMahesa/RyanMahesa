@@ -4,12 +4,12 @@
   <img src="Githubbanner.png" alt="Profile Banner" width="100%" />
 </p>
 
-Hello! I'm a Computer Science student with a strong passion for software development, IT governance, and data analytics. Currently focused on building scalable software solutions and exploring predictive modeling.
+Hello! I'm a Computer Science student passionate about data analytics and business intelligence, with a solid foundation in IT governance and software development. Currently focused on turning raw data into actionable insights through SQL, Power BI, and exploratory predictive modeling.
 
 ### 🎯 What I Do & What I'm Good At
-- **Software Engineering & Web:** Building applications and optimizing code architecture.
 - **Data Analytics & Reporting:** Analyzing datasets using SQL and crafting interactive dashboards with **Power BI**.
 - **IT Risk & Governance:** Managing IT risk frameworks, conducting risk assessments, and ensuring compliance with internal policies and regulatory standards (OJK).
+- **Software Engineering & Web:** Building applications and optimizing code architecture.
 ---
 
 ### 🛠️ Tech Stack & Tools
