@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <p align="center">
-  <img src="backgroundLinkedinGPT.png" alt="Profile Banner" width="100%" />
+  <img src="Githubbanner.png" alt="Profile Banner" width="100%" />
 </p>
 
 Hello! I'm a Computer Science student with a strong passion for software development, IT governance, and data analytics. Currently focused on building scalable software solutions and exploring predictive modeling.
