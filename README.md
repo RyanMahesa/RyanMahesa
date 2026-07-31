@@ -9,8 +9,7 @@ Hello! I'm a Computer Science student with a strong passion for software develop
 ### 🎯 What I Do & What I'm Good At
 - **Software Engineering & Web:** Building applications and optimizing code architecture.
 - **Data Analytics & Reporting:** Analyzing datasets using SQL and crafting interactive dashboards with **Power BI**.
-- **Machine Learning:** Conducting research and data-driven forecasting using algorithms like XGBoost and LSTM.
-
+- **IT Risk & Governance:** Managing IT risk frameworks, conducting risk assessments, and ensuring compliance with internal policies and regulatory standards (OJK).
 ---
 
 ### 🛠️ Tech Stack & Tools
