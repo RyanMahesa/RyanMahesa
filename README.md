@@ -6,7 +6,7 @@
 
 Hello! I'm a Computer Science student passionate about data analytics and business intelligence, with a solid foundation in IT governance and software development. Currently focused on turning raw data into actionable insights through SQL, Power BI, and exploratory predictive modeling.
 
-### 🎯 What I Do & What I'm Good At
+### 💁🏻‍♂️ What I Do & What I'm Good At
 - **Data Analytics & Reporting:** Analyzing datasets using SQL and crafting interactive dashboards with **Power BI**.
 - **IT Risk & Governance:** Managing IT risk frameworks, conducting risk assessments, and ensuring compliance with internal policies and regulatory standards (OJK).
 - **Software Engineering & Web:** Building applications and optimizing code architecture.
@@ -15,7 +15,7 @@ Hello! I'm a Computer Science student passionate about data analytics and busine
 ### 🛠️ Tech Stack & Tools
 
 - **Languages & Databases:** SQL, Python
-- **Database: MySQL**
+- **Database:** MySQL
 - **Visualization:** PowerBI
 
 ---
