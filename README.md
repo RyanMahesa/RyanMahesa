@@ -21,7 +21,7 @@ Hello! I'm a Computer Science student passionate about data analytics and busine
 ---
 
 ### 📚 Projects
-Welcome to my portfolio, where I showcase my [projects](https://github.com/username-anda/nama-repo-proyek).
+Welcome to my portfolio, where I showcase my [projects](https://github.com/RyanMahesa/Portfolio).
 
 
 ---
