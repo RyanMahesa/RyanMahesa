@@ -4,12 +4,12 @@
   <img src="Githubbanner.png" alt="Profile Banner" width="100%" />
 </p>
 
-Hello! I'm a Computer Science student passionate about data analytics and business intelligence, with a solid foundation in IT governance and software development. Currently focused on turning raw data into actionable insights through SQL, Power BI, and exploratory predictive modeling.
+Hello, I'm Ryan. A Data Analyst with expertise in data analysis, reporting, data cleansing, and relational data modeling. I am passionate about transforming raw datasets into actionable business insights.
 
-### 💁🏻‍♂️ What I Do & What I'm Good At
-- **Data Analytics & Reporting:** Analyzing datasets using SQL and crafting interactive dashboards with **Power BI**.
-- **IT Risk & Governance:** Managing IT risk frameworks, conducting risk assessments, and ensuring compliance with internal policies and regulatory standards (OJK).
-- **Software Engineering & Web:** Building applications and optimizing code architecture.
+- Querying, cleaning, and managing data using SQL (MySQL).
+- Generating business insights and performing ad-hoc data analysis.
+- Developing interactive and executive dashboards using Power BI.
+- Data analysis and reporting using Excel and Spreadsheets to drive strategic decision-making.
 ---
 
 ### 🛠️ Tech Stack & Tools
