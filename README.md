@@ -4,7 +4,7 @@
   <img src="Githubbanner.png" alt="Profile Banner" width="100%" />
 </p>
 
-Hello, I'm Ryan. A Data Analyst with expertise in data analysis, reporting, data cleansing, and relational data modeling. I am passionate about transforming raw datasets into actionable business insights.
+Hello, I'm Ryan. A Data Analyst with expertise in data analysis, reporting, data cleaning, and relational data modeling. I am passionate about transforming raw datasets into actionable business insights.
 
 - Querying, cleaning, and managing data using SQL (MySQL).
 - Generating business insights and performing ad-hoc data analysis.
